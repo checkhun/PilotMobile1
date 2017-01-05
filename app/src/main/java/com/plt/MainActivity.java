@@ -22,7 +22,7 @@ public class MainActivity extends AppCompatActivity implements OnClickListener, 
     private Button testBtn;
     private TextView testTextView;
     private EditText editText;
-
+//
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
